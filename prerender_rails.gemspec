@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'rack', '~> 2.2.2'
   spec.add_dependency 'activesupport', '>= 0'
 
-  spec.add_development_dependency "bundler", "~> 2.1.2"
+  spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake"
   spec.add_development_dependency "webmock"
 end
